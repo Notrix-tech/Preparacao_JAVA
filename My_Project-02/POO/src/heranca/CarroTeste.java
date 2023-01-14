@@ -16,7 +16,7 @@ public class CarroTeste {
 		
 		System.out.println("===========Ferrari====================");
 		
-		Ferrari c2 = new Ferrari();
+		Ferrari c2 = new Ferrari(400);
 		
 		c2.acelerar();
 		System.out.println(c2);
