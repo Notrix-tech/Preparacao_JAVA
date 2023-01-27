@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/My_Project-01/01-WorkSpace_Java_Cod3r/Array E Colletion/Array E Colletion.iml" filepath="$PROJECT_DIR$/My_Project-01/01-WorkSpace_Java_Cod3r/Array E Colletion/Array E Colletion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/My_Project-01/01-WorkSpace_Java_Cod3r/Classes_e_Metodos/Classes_e_Metodos.iml" filepath="$PROJECT_DIR$/My_Project-01/01-WorkSpace_Java_Cod3r/Classes_e_Metodos/Classes_e_Metodos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/My_Project-01/01-WorkSpace_Java_Cod3r/JavaOrientacaoObjetos/Composicao/Composicao.iml" filepath="$PROJECT_DIR$/My_Project-01/01-WorkSpace_Java_Cod3r/JavaOrientacaoObjetos/Composicao/Composicao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/My_Project-01/01-WorkSpace_Java_Cod3r/Estrutura_de_Controle/Estrutura_de_Controle.iml" filepath="$PROJECT_DIR$/My_Project-01/01-WorkSpace_Java_Cod3r/Estrutura_de_Controle/Estrutura_de_Controle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/My_Project-01/01-WorkSpace_Java_Cod3r/JavaOrientacaoObjetos/Herança/Herança.iml" filepath="$PROJECT_DIR$/My_Project-01/01-WorkSpace_Java_Cod3r/JavaOrientacaoObjetos/Herança/Herança.iml" />
+      <module fileurl="file://$PROJECT_DIR$/My_Project-01/01-WorkSpace_Java_Cod3r/JavaOrientacaoObjetos/JavaOrientacaoObjetos.iml" filepath="$PROJECT_DIR$/My_Project-01/01-WorkSpace_Java_Cod3r/JavaOrientacaoObjetos/JavaOrientacaoObjetos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Modificadores_de_Acesso/Modificadores_de_Acesso.iml" filepath="$PROJECT_DIR$/Modificadores_de_Acesso/Modificadores_de_Acesso.iml" />
+      <module fileurl="file://$PROJECT_DIR$/My_Project-01/My_Project-01.iml" filepath="$PROJECT_DIR$/My_Project-01/My_Project-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/My_Project-02/My_Project-02.iml" filepath="$PROJECT_DIR$/My_Project-02/My_Project-02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/My_Project_Java.iml" filepath="$PROJECT_DIR$/.idea/My_Project_Java.iml" />
+    </modules>
+  </component>
+</project>
